@@ -38,7 +38,7 @@
 ```bash
 # 1. 拉代码（约定 /opt 目录，可自定义）
 cd /opt
-git clone https://github.com/ethanz-code/llmprices.cn.git
+git clone https://github.com/hey-yx/llmprices.cn.git
 cd llmprices.cn
 
 # 2.（可选）首次启动前预置站点：编辑 config/default-seed.json

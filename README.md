@@ -40,7 +40,7 @@
 要求 Python 3.12+ 与 [uv](https://docs.astral.sh/uv/)；使用 Web 界面另需 Node.js 与 npm。
 
 ```bash
-git clone https://github.com/ethanz-code/llmprices.cn.git
+git clone https://github.com/hey-yx/llmprices.cn.git
 cd llmprices.cn
 uv sync
 
